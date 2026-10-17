@@ -10,7 +10,7 @@ A BetterDiscord plugin for organizing Discord servers and folders in one workspa
 - **Searchable destinations:** find a folder quickly from the move menu and see which folder currently contains the selected servers.
 - **Server actions:** mark unread messages as read, manage mute and notification preferences, or open a server directly.
 - **Review before applying:** folder and order changes remain a draft. Undo changes, reset the draft or apply it to Discord.
-- **Departure confirmation:** review server names and icons before leaving one or more servers.
+- **Departure confirmation:** review server names and animated icons in a searchable list before leaving one or more servers.
 
 ## Installation
 
@@ -20,7 +20,7 @@ A BetterDiscord plugin for organizing Discord servers and folders in one workspa
 
 ## Usage
 
-Open ServerOrganizer using the button below Discord Home in the server list, or press **Ctrl+Shift+M**. You can change this shortcut and hide the button in the plugin settings.
+Open ServerOrganizer using its launcher or press **Ctrl+Shift+M**. By default, the launcher appears below Discord Home. Plugin settings also offer a small button beside Home that appears on hover, or an icon in the channel toolbar. You can hide the launcher, change the shortcut and turn operation notifications on or off.
 
 Search or select servers in the workspace, or open a folder in the library. Right-click a server or folder **inside ServerOrganizer** for its actions. Drag server rows to change their position or folder; use folder grips to reorder folders. Scrolling remains available while dragging.
 
